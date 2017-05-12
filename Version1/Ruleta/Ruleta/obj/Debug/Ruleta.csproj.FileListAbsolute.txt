@@ -1,0 +1,9 @@
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\bin\Debug\Ruleta.exe.config
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\bin\Debug\Ruleta.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\bin\Debug\Ruleta.pdb
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.csprojResolveAssemblyReference.cache
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.Form1.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.Properties.Resources.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.csproj.GenerateResource.Cache
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\Ruleta\Ruleta\obj\Debug\Ruleta.pdb
